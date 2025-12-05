@@ -154,4 +154,4 @@ Este projeto demonstra o uso de:
 
 Se você gostou do projeto, deixe uma estrelinha ⭐ no repositório! <3
 
-Feito com 🖤 por [@yumekojulia](https://github.com/yumekojulia)
+Feito com 🖤 por [@0xjuL14](https://github.com/0xjuL14)
